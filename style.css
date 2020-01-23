@@ -1,0 +1,16 @@
+#search {
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 60px;
+        border-color: #e1e1e1;
+        height: 62px;
+        width: 850px;
+}
+
+#search:hover {
+    height: 64px;
+    width: 852px;
+    border-style: none;
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.56);
+}
+
