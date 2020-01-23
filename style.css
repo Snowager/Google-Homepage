@@ -1,3 +1,28 @@
+body {
+        margin: 0;
+        display: flex;
+        height: 100vh;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}
+
+.logo {
+   
+    justify-content: center;
+    align-items: center;
+}
+
+.logo>div {
+    width: 400px;
+}
+
+.bar {
+    justify-content: center;
+    align-items: center;
+   
+}
+
 #search {
         border-style: solid;
         border-width: 2px;
